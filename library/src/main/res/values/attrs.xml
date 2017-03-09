@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RatioLayout">
+        <attr name="width_weight" format="integer"/>
+        <attr name="height_weight" format="integer"/>
+        <attr name="fixed">
+            <enum name="width" value="1"/>
+            <enum name="height" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
